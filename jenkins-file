@@ -21,5 +21,11 @@
             deploy adapters: [tomcat9(credentialsId: 'ce46ae30-283e-4656-8299-514eafdd0192', path: '', url: 'http://54.90.227.212:9090/manager/html')], contextPath: 'sample', war: 'target/sample.war'
             }
         }
+        stage("email"){
+            steps{
+            mail bcc: '', body: '''hi sreenivas 
+            you build startedd''', cc: '', from: '', replyTo: '', subject: 'pipeline-job', to: 'sreenivas7350@gmail.com'
+           }
+        }
     }
 }
