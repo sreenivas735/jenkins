@@ -1,6 +1,13 @@
 <html>
 <body>
-  <centre> <h1>SUREPALLI FAMILY</h1> </centre>
+  <title> SUREPALLI FAMILY </title>
+  <img src="html5.gif" alt="HTML5 Icon" width="128" height="128">
+
+<img src="html5.gif" alt="HTML5 Icon" style="width:128px;height:128px;">
+  
+  
+  
+  
   <h1> Surepalli Polaiah</h1>
   <h1>Surepalli Chinnamunemma</h1>
   <h2>Surepalli Sreenivasulu</h2>
