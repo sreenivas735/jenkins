@@ -1,9 +1,11 @@
 <html>
 <body>
   <title> SUREPALLI FAMILY </title>
-  <img src="html5.gif" alt="HTML5 Icon" width="128" height="128">
-
-<img src="html5.gif" alt="HTML5 Icon" style="width:128px;height:128px;">
+  
+  
+  
+  
+  <img src="pic_trulli.jpg" alt="Trulli" width="500" height="333">
   
   
   
